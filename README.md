@@ -26,10 +26,16 @@ Add one paragraph per team member and describe in detail what that team member�
 
 # Hand-in in format:
 ├── data/
+
 ├── src/
+
 ├── .gitignore
+
 ├── LICENSE
+
 ├── README.md
+
 ├── presentation.pdf
+
 └── report.pdf
 

@@ -1,4 +1,5 @@
-# Data2060-Final-Project
+# Data2060-Final-Project Team AI alchemist
+
 
 # In progress:
-Implementation for Adaboost.
+

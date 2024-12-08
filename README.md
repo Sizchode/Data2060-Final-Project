@@ -1,4 +1,4 @@
-# Custom Adaptive boosting from AI alchemist
+# AdaBoost Implementation for DATA 2060 Final Project from AI alchemist
 
 This repository contains the AI alchemist's investigation and implementation for Adaboost.
 
@@ -40,8 +40,11 @@ To reproduce the results, ensure you have the following software and library ver
 This project was developed by:
 
 Junhan Liu: junhan_liu@brown.edu
+
 Zhenke Liu: zhenke_liu@brown.edu
+
 Qingyu Wang: qingyu_wang@brown.edu
+
 Justin Xiao: xulong_xiao@brown.edu
 
 

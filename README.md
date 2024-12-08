@@ -29,11 +29,11 @@ To reproduce the results, ensure you have the following software and library ver
 
 2. Create a virtual environment using the provided YAML file:
    ```bash
-  conda env create -f environment.yaml
+   conda env create -f environment.yaml
 
 3. Activate the environment:
    ```bash
-  conda activate adaboost_project
+   conda activate adaboost_project
 
 
 ## Authors

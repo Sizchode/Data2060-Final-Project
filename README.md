@@ -34,8 +34,7 @@ To reproduce the results, ensure you have the following software and library ver
 3. Activate the environment:
    ```bash
    conda activate adaboost_project
-
-
+   
 ## Authors
 
 This project was developed by:

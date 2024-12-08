@@ -1,19 +1,38 @@
 # Custom Adaptive boosting from AI alchemist
 
-Add one paragraph per team member and describe in detail what that team member’s contribution is to the final project. 
+This repository contains the AI alchemist's investigation and implementation for Adaboost.
 
-# Hand-in in format:
-├── data/
+# Project Overview
+AdaBoost, or Adaptive Boosting, is a machine learning ensemble technique that combines multiple "weak" classifiers to form a "strong" classifier. This project focuses on:
 
-├── src/
+-Deriving and explaining the core mathematical principles behind AdaBoost.
+-Implementing the algorithm from scratch in Python.
+-Demonstrating its application on an example dataset with clear visualizations.
 
-├── .gitignore
+# Environment Setup
+To reproduce the results, ensure you have the following software and library versions installed:
 
-├── LICENSE
+Python: 3.12.5
+NumPy: 2.0.1
+Pandas: 2.2.2
+Matplotlib: 3.9.1
+Scikit-learn: 1.5.1
 
-├── README.md
+Installation
+Clone the repository:
 
-├── presentation.pdf
+git clone https://github.com/Sizchode/Data2060-Final-Project.git
 
-└── report.pdf
+cd Data2060-Final-Project
+Create a virtual environment and activate it:
+
+python3 -m venv env
+
+source env/bin/activate  # On Windows, use `env\Scripts\activate`
+
+Install the dependencies using the provided YAML or requirements.txt file:
+pip install -r requirements.txt
+
+
+
 

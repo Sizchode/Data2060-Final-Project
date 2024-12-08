@@ -11,10 +11,3 @@ dependencies:
   - scikit-learn=1.5.1
 """
 
-yaml_path = '/mnt/data/environment.yaml'
-
-# Save the YAML file
-with open(yaml_path, 'w') as yaml_file:
-    yaml_file.write(yaml_content)
-
-yaml_path

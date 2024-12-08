@@ -6,7 +6,9 @@ This repository contains the AI alchemist's investigation and implementation for
 AdaBoost, or Adaptive Boosting, is a machine learning ensemble technique that combines multiple "weak" classifiers to form a "strong" classifier. This project focuses on:
 
 -Deriving and explaining the core mathematical principles behind AdaBoost.
+
 -Implementing the algorithm from scratch in Python.
+
 -Demonstrating its application on an example dataset with clear visualizations.
 
 ## Environment Setup

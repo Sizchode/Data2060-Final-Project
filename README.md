@@ -1,6 +1,6 @@
 # AdaBoost Implementation for DATA 2060 Final Project from AI alchemist
 
-This repository contains the AI alchemist's investigation and implementation for Adaboost.
+This repository contains the AI alchemist's implementation for Adaboost.
 
 ## Project Overview
 AdaBoost, or Adaptive Boosting, is a machine learning ensemble technique that combines multiple "weak" classifiers to form a "strong" classifier. This project focuses on:

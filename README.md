@@ -29,6 +29,7 @@ To reproduce the results, ensure you have the following software and library ver
 
 2. Create a virtual environment using the provided YAML file:
    ```bash
+   pip install cryptography
    conda env create -f environment.yaml
 
 3. Activate the environment:

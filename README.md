@@ -21,5 +21,29 @@ To reproduce the results, ensure you have the following software and library ver
 - **Scikit-learn**: 1.5.1
 
 
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sizchode/Data2060-Final-Project.git
+   cd Data2060-Final-Project
+
+2. Create a virtual environment using the provided YAML file:
+   ```bash
+  conda env create -f environment.yaml
+
+3. Activate the environment:
+   ```bash
+  conda activate adaboost_project
+
+
+## Authors
+
+This project was developed by:
+
+Junhan Liu: junhan_liu@brown.edu
+Zhenke Liu: zhenke_liu@brown.edu
+Qingyu Wang: qingyu_wang@brown.edu
+Justin Xiao: xulong_xiao@brown.edu
+
 
 

@@ -1,4 +1,4 @@
-# Data2060-Final-Project Team AI alchemist
+# Custom Adaptive boosting from AI alchemist
 
 Add one paragraph per team member and describe in detail what that team member’s contribution is to the final project. 
 
